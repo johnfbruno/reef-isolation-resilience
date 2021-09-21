@@ -1,0 +1,224 @@
+"","study","study_ID","location","country","region","lat","long","gravity.reef_ID","gravity.Grav_tot","travel_time.point.ID","travel_time.poly.ID","travel_time.reef_ID","travel_time.tt_pop","travel_time.tt_market","travel_time_test.point.ID","travel_time_test.poly.ID","travel_time_test.reef_ID","travel_time_test.tt_pop","travel_time_test.tt_market","travel_time_backup.point.ID","travel_time_backup.poly.ID","travel_time_backup.reef_ID","travel_time_backup.tt_pop","travel_time_backup.tt_market","travel_time_backup.Grav_tot"
+"1","Arias-Gonzalez et al (2017)",75,"Mahahual, Mexico","Mexico","Caribbean", 18.7100001, -87.71000,NA,NA,  1,NA,NA,NA,NA,  1,NA,NA,NA,NA,  1, 4054,13650,   1, 165,   1
+"2","Arias-Gonzalez et al (2017)",75,"Mahahual, Mexico","Mexico","Caribbean", 18.7100001, -87.71000,NA,NA,  2,NA,NA,NA,NA,  2,NA,NA,NA,NA,  2, 4054,13650,   1, 165,   1
+"3","Manzello (2018)",74,"Cheeca Rocks patch reef, Florida Keys, USA","Florida","Caribbean", 24.8977001, -80.61820, 1247,  185,  3, 1247, 1247,  23, 152,  3, 1247,1247,  23, 152,  3, 1247,11121,  55,  81, 128
+"4","Madin et al (2018)",73,"Lizard Island, GBR","Australia","W. Pacific",-14.6687999, 145.45940,NA,NA,  4,NA,NA,NA,NA,  4,NA,NA,NA,NA,  4,22637,592,   9, 221,  79
+"5","Buglass et al (2015)",72,"Black Jack Hole, Tobago","Laba","Caribbean", 11.3000001, -60.50000,NA,NA,  5,NA,NA,NA,NA,  5,NA,NA,NA,NA,  5, 7363,1664,  22, 168,  85
+"6","Buglass et al (2015)",72,"Western Buccoo, Tobago","Tobago","Caribbean", 11.1800001, -60.85000, 7450,   78,  6, 7438, 7450,  13, 276,  6, 7438,7450,  13, 276,  6, 7438,16707,   1, 299,  12
+"7","Buglass et al (2015)",72,"Colloden East, Tobago","Tobago","Caribbean", 11.2500001, -60.75000,NA,NA,  7,NA,NA,NA,NA,  7,NA,NA,NA,NA,  7,NA,NA,NA,NA,NA
+"8","Buglass et al (2015)",72,"Outer Buccoo, Tobago","Tobago","Caribbean", 11.1900001, -60.82000, 7450,   78,  8, 7438, 7450,  13, 276,  8, 7438,7450,  13, 276,  8, 7438,16707,   1, 299,  12
+"9","Buglass et al (2015)",72,"Culloden West, Tobago","Tobago","Caribbean", 11.2500001, -60.75000,NA,NA,  9,NA,NA,NA,NA,  9,NA,NA,NA,NA,  9,NA,NA,NA,NA,NA
+"10","Rodgers et al (2015)",71,"Kanahena Point., Hawaii","Hawaii","E. Pacific", 20.6000001,-156.44000,NA,NA, 10,NA,NA,NA,NA, 10,NA,NA,NA,NA, 10,NA,NA,NA,NA,NA
+"11","Edmunds et al (2015)",70,"LTER 1, Moorea","Moorea","E. Pacific",-17.4799999,-149.85000,24172,   54, 11,24122,24172,  13,  80, 11,24122,24172,  13,  80, 11,24122,726,   1, 459, 605
+"12","Edmunds et al (2015)",70,"LTER 1, Moorea","Moorea","E. Pacific",-17.4799999,-149.85000,24172,   54, 12,24122,24172,  13,  80, 12,24122,24172,  13,  80, 12,24122,726,   1, 459, 605
+"13","Glynn et al (2014)",69,"Uva Island, Panama","Panama","E. Pacific",  7.8129807, -81.75972,NA,NA, 13,NA,NA,NA,NA, 13,NA,NA,NA,NA, 13,NA,NA,NA,NA,NA
+"14","Graham et al (2014)",68,"John Brewer reef, GBR, Australia","Australia","W. Pacific",-18.6299999, 147.05000,24782,    4, 14,24731,24782, 124, 248, 14,24731,24782, 124, 248, 14,24731,781,3504,4801,   0
+"15","Graham et al (2014)",68,"Trunk Reef, GBR, Australia","Australia","W. Pacific",-18.3599999, 146.83000,24681,    3, 15,24630,24681, 143, 313, 15,24630,24681, 143, 313, 15,24630,7718, 640,1806,   2
+"16","Graham et al (2014)",68,"Rib Reef, GBR, Australia","Australia","W. Pacific",-18.4799999, 146.87000,24708,    4, 16,24657,24708, 110, 297, 16,24657,24708, 110, 297, 16,24657,7743,  14, 730, 637
+"17","McClanahan (2014)",67,"Kanamai, Kenya","Kenya","Indian Ocean", -3.9204719,  39.79315,15755, 8438, 17,15720,15755,   1,  27, 17,15720,15755,   1,  27, 17,15720,24174,  17,  28, 115
+"18","McClanahan (2014)",67,"Ras Iwatine, Kenya","Kenya","Indian Ocean", -4.0699999,  39.69000,15842,41790, 18,15807,15842,   1,   4, 18,15807,15842,   1,   4, 18,15807,24252,  89, 653,  18
+"19","McClanahan (2014)",67,"Vipingo, Kenya","Kenya","Indian Ocean", -3.8339049,  39.82785,15715,  505, 19,15681,15715,  17,  64, 19,15681,15715,  17,  64, 19,15681,24139,1320,1586,   0
+"20","McClanahan (2014)",67,"Diani, Kenya","Kenya","Indian Ocean", -4.2599999,  39.60000,15925, 5016, 20,15890,15925,   1,  27, 20,15890,15925,   1,  27, 20,15890,24327, 726, 797,   1
+"21","McClanahan (2014)",67,"Mombasa, Kenya","Kenya","Indian Ocean", -3.9799999,  39.75000,15798, 1869, 21,15763,15798,   4,  26, 21,15763,15798,   4,  26, 21,15763,24212,2224,2649,   0
+"22","McClanahan (2014)",67,"Watamu, Kenya","Kenya","Indian Ocean", -3.3810819,  40.00072,15475,  617, 22,15443,15475,   4, 120, 22,15443,15475,   4, 120, 22,15443,23925,  28, 405,   7
+"23","McClanahan (2014)",67,"Malindi, Kenya","Kenya","Indian Ocean", -3.2569039,  40.14175,15415, 5086, 23,15383,15415,   1, 130, 23,15383,15415,   1, 130, 23,15383,23871,   1, 336,  44
+"24","Bahr et al (2015)",66,"Kaneohe Bay, Hawaii","Hawaii","E. Pacific", 21.4666668,-157.80000, 2959, 1067, 24, 2956, 2959,   6,  23, 24, 2956,2959,   6,  23, 24, 2956,12660,  33, 440,  42
+"25","Hobbs et al (2015)",65,"Christmas Island, Australia","Australia","Indian Ocean",-10.4999999, 105.66667,NA,NA, 25,NA,NA,NA,NA, 25,NA,NA,NA,NA, 25,20547,4037,   1,  92, 903
+"26","Hobbs et al (2015)",65,"Christmas Island, Australia","Australia","Indian Ocean",-10.4999999, 105.66667,NA,NA, 26,NA,NA,NA,NA, 26,NA,NA,NA,NA, 26,20547,4037,   1,  92, 903
+"27","Lamy et al (2015)",64,"Haapiti, Moorea","Moorea","E. Pacific",-17.5539999,-149.89800,24240,   30, 27,24190,24240,  22,  88, 27,24190,24240,  22,  88, 27,24190,7320,  90,1132,  36
+"28","Lamy et al (2015)",64,"Maatea, Moorea","Moorea","E. Pacific",-17.5959999,-149.79500,24307,   46, 28,24257,24307,  20,  58, 28,24257,24307,  20,  58, 28,24257,7381,   7, 417,  43
+"29","Lamy et al (2015)",64,"Taotaha, Moorea","Moorea","E. Pacific",-17.5329999,-149.91900,24239,   43, 29,24189,24239,  13,  84, 29,24189,24239,  13,  84, 29,24189,732,  26,  38, 654
+"30","Lamy et al (2015)",64,"Gendron, Moorea","Moorea","E. Pacific",-17.5049999,-149.92800,24239,   43, 30,24189,24239,  13,  84, 30,24189,24239,  13,  84, 30,24189,732,  26,  38, 654
+"31","Lamy et al (2015)",64,"Tetaiuo, Moorea","Moorea","E. Pacific",-17.5119999,-149.92600,24239,   43, 31,24189,24239,  13,  84, 31,24189,24239,  13,  84, 31,24189,732,  26,  38, 654
+"32","Lamy et al (2015)",64,"Temae, Moorea","Moorea","E. Pacific",-17.5069999,-149.76000,NA,NA, 32,NA,NA,NA,NA, 32,NA,NA,NA,NA, 32,24191,7321,  71,1114,  38
+"33","Lamy et al (2015)",64,"Aroa, Moorea","Moorea","E. Pacific",-17.4709999,-149.77700,24173,   81, 33,24123,24173,   8,  66, 33,24123,24173,   8,  66, 33,24123,7260,  68, 933, 233
+"34","Lamy et al (2015)",64,"Afareaitu, Moorea","Moorea","E. Pacific",-17.5689999,-149.78400,NA,NA, 34,NA,NA,NA,NA, 34,NA,NA,NA,NA, 34,24191,7321,  71,1114,  38
+"35","Lamy et al (2015)",64,"Ahi, Moorea","Moorea","E. Pacific",-17.5489999,-149.77100,NA,NA, 35,NA,NA,NA,NA, 35,NA,NA,NA,NA, 35,24191,7321,  71,1114,  38
+"36","Lamy et al (2015)",64,"Tiahura Reef, Moorea","Moorea","E. Pacific",-17.4829999,-149.90000,24172,   54, 36,24122,24172,  13,  80, 36,24122,24172,  13,  80, 36,24122,726,   1, 459, 605
+"37","Lamy et al (2015)",64,"Nuarei, Moorea","Moorea","E. Pacific",-17.5009999,-149.75500,NA,NA, 37,NA,NA,NA,NA, 37,NA,NA,NA,NA, 37,24191,7321,  71,1114,  38
+"38","Lamy et al (2015)",64,"Pihaena, Moorea","Moorea","E. Pacific",-17.4769999,-149.82900,24172,   54, 38,24122,24172,  13,  80, 38,24122,24172,  13,  80, 38,24122,726,   1, 459, 605
+"39","Lamy et al (2015)",64,"Entre 2 Baies, Moorea","Moorea","E. Pacific",-17.4759999,-149.83700,24172,   54, 39,24122,24172,  13,  80, 39,24122,24172,  13,  80, 39,24122,726,   1, 459, 605
+"40","Russ et al (2015)",63,"Apo Island, Phillipines","Phillipines","W. Pacific",  9.0800001, 123.27000,NA,NA, 40,NA,NA,NA,NA, 40,NA,NA,NA,NA, 40, 9048,1816,  29, 363, 219
+"41","Russ et al (2015)",63,"Sumilon, Phillipines","Phillipines","W. Pacific",  9.4300001, 123.39000,NA,NA, 41,NA,NA,NA,NA, 41,NA,NA,NA,NA, 41, 8785,17923,   1, 255,1922
+"42","Russ et al (2015)",63,"Sumilon, Phillipines","Phillipines","W. Pacific",  9.4300001, 123.39000,NA,NA, 42,NA,NA,NA,NA, 42,NA,NA,NA,NA, 42, 8785,17923,   1, 255,1922
+"43","Russ et al (2015)",63,"Apo Island, Phillipines","Phillipines","W. Pacific",  9.0800001, 123.27000,NA,NA, 43,NA,NA,NA,NA, 43,NA,NA,NA,NA, 43, 9048,1816,  29, 363, 219
+"44","DeBose et al (2013)",62,"Stetson Bank, Gulf of Mexico","Texas","Caribbean", 28.2000001, -94.30000,NA,NA, 44,NA,NA,NA,NA, 44,NA,NA,NA,NA, 44,NA,NA,NA,NA,NA
+"45","Gilmour et al (2013)",61,"Scott Reef, Australia","Australia","Indian Ocean",-14.0688199, 121.76593,22466,    0, 45,22418,22466, 971,1551, 45,22418,22466, 971,1551, 45,22418,5722,  20, 439, 254
+"46","Speed et al (2013)",60,"Bundegi Reef, Australia","Australia","Indian Ocean",-21.8049317, 114.18648,26525,   15, 46,26474,26525,   1,3496, 46,26474,26525,   1,3496, 46,26474,9383,  15,2347,   1
+"47","Haapkyla et al (2013)",59,"Geoffrey Bay, GBR, Australia","Australia","W. Pacific",-19.1558332, 146.86111,NA,NA, 47,NA,NA,NA,NA, 47,NA,NA,NA,NA, 47,24972,8026,  11, 424,   2
+"48","Haapkyla et al (2013)",59,"Nelly Bay, GBR, Australia","Australia","W. Pacific",-19.1719444, 146.84833,NA,NA, 48,NA,NA,NA,NA, 48,NA,NA,NA,NA, 48,24972,8026,  11, 424,   2
+"49","Phongsuwan et al (2013)",58,"Similan Islands, Thailand","Thailand","Indian Ocean",  8.6600001,  97.65000, 9341,   36, 49, 9323, 9341,  36, 260, 49, 9323,9341,  36, 260, 49, 9323,18407,   7,1699,  17
+"50","Phongsuwan et al (2013)",58,"Surin Islands, Thailand","Thailand","Indian Ocean",  9.4100001,  97.88000, 8781,   26, 50, 8765, 8781,   9, 318, 50, 8765,8781,   9, 318, 50, 8765,17905,  21, 360,   1
+"51","Kuo et al (2012)",57,"Wanlitung Reef, Taiwan","Taiwan","W. Pacific", 21.9950168, 120.70360,NA,NA, 51,NA,NA,NA,NA, 51,NA,NA,NA,NA, 51, 2753,12478,   1,  83, 300
+"52","Shibuna et al (2002)",56,"Ishigaki Island, Japan","Japan","W. Pacific", 24.4700001, 124.21000, 1482,  324, 52, 1482, 1482,   2, 794, 52, 1482,1482,   2, 794, 52, 1482,11333,  13,1059,  34
+"53","Bena and Van Woesik (2004)",55,"Site 1, Okinawa, Japan","Japan","W. Pacific", 26.3166668, 127.75000,  713, 6644, 53,  713,  713,   4,  13, 53,  713,713,   4,  13, 53,  713,10639,  55,1153,  37
+"54","Bena and Van Woesik (2004)",55,"Site 1, Okinawa, Japan","Japan","W. Pacific", 26.3166668, 127.75000,  713, 6644, 54,  713,  713,   4,  13, 54,  713,713,   4,  13, 54,  713,10639,  55,1153,  37
+"55","Bena and Van Woesik (2004)",55,"Site 2, Okinawa, Japan","Japan","W. Pacific", 26.3494141, 127.74336,  676, 1511, 55,  676,  676,   1,  43, 55,  676,676,   1,  43, 55,  676,10605,  17, 879, 108
+"56","Bena and Van Woesik (2004)",55,"Site 2, Okinawa, Japan","Japan","W. Pacific", 26.3494141, 127.74336,  676, 1511, 56,  676,  676,   1,  43, 56,  676,676,   1,  43, 56,  676,10605,  17, 879, 108
+"57","Bena and Van Woesik (2004)",55,"Site 2, Okinawa, Japan","Japan","W. Pacific", 26.3494141, 127.74336,  676, 1511, 57,  676,  676,   1,  43, 57,  676,676,   1,  43, 57,  676,10605,  17, 879, 108
+"58","Bena and Van Woesik (2004)",55,"Site 1, Okinawa, Japan","Japan","W. Pacific", 26.3166668, 127.75000,  713, 6644, 58,  713,  713,   4,  13, 58,  713,713,   4,  13, 58,  713,10639,  55,1153,  37
+"59","Bena and Van Woesik (2004)",55,"Site 2, Okinawa, Japan","Japan","W. Pacific", 26.3494141, 127.74336,  676, 1511, 59,  676,  676,   1,  43, 59,  676,676,   1,  43, 59,  676,10605,  17, 879, 108
+"60","Bena and Van Woesik (2004)",55,"Site 1, Okinawa, Japan","Japan","W. Pacific", 26.3166668, 127.75000,  713, 6644, 60,  713,  713,   4,  13, 60,  713,713,   4,  13, 60,  713,10639,  55,1153,  37
+"61","Schleyer et al (2008)",54,"9 mile reef, South Africa","South Africa","Indian Ocean",-27.4149166,  32.72661,NA,NA, 61,NA,NA,NA,NA, 61,NA,NA,NA,NA, 61,NA,NA,NA,NA,NA
+"62","Wakeford et al (2008)",53,"Lizard Island, GBR","Australia","W. Pacific",-14.6999999, 145.46000,22686,    1, 62,22637,22686, 121, 522, 62,22637,22686, 121, 522, 62,22637,592,   9, 221,  79
+"63","Wakeford et al (2008)",53,"Lizard Island, GBR","Australia","W. Pacific",-14.6999999, 145.46000,22686,    1, 63,22637,22686, 121, 522, 63,22637,22686, 121, 522, 63,22637,592,   9, 221,  79
+"64","Wakeford et al (2008)",53,"Lizard Island, GBR","Australia","W. Pacific",-14.6999999, 145.46000,22686,    1, 64,22637,22686, 121, 522, 64,22637,22686, 121, 522, 64,22637,592,   9, 221,  79
+"65","Reigl et al (2009)",52,"Roatan, Honduras","Honduras","Caribbean", 16.3223016, -86.58125,NA,NA, 65,NA,NA,NA,NA, 65,NA,NA,NA,NA, 65, 5089,14589,  17,1020,  10
+"66","Wilson et al 2009",51,"Low Isles, GBR","Australia","W. Pacific",-16.3833332, 145.56667,NA,NA, 66,NA,NA,NA,NA, 66,NA,NA,NA,NA, 66,23404,6611,   4,  74,  38
+"67","Wilson et al 2009",51,"19-131, GBR","Australia","W. Pacific",-19.7666666, 149.36667,25314,    2, 67,25263,25314, 168, 519, 67,25263,25314, 168, 519, 67,25263,829,  20, 337,  50
+"68","Wilson et al 2009",51,"19-138, GBR","Australia","W. Pacific",-19.7999999, 149.43333,25315,    2, 68,25264,25315, 195, 533, 68,25264,25315, 195, 533, 68,25264,8290,   4,1749,  56
+"69","Wilson et al 2009",51,"Chicken Reef, GBR","Australia","W. Pacific",-18.6499999, 147.70000,24789,    2, 69,24738,24789, 317, 358, 69,24738,24789, 317, 358, 69,24738,7816,   1,1548,4474
+"70","Wilson et al 2009",51,"Thetford Reef, GBR","Australia","W. Pacific",-16.7999999, 146.20000,23790,    7, 70,23740,23790, 133, 141, 70,23740,23790, 133, 141, 70,23740,6915,   7, 812, 211
+"71","Wilson et al 2009",51,"Havannah Island, GBR","Australia","W. Pacific",-18.8499999, 146.55000,24886,   12, 71,24835,24886,  66, 126, 71,24835,24886,  66, 126, 71,24835,7903,  13, 344,   3
+"72","Halford et al 2009",50,"Scott Reef, Australia","Australia","Indian Ocean",-14.1816478, 121.84620,22501,    0, 72,22453,22501, 927,1574, 72,22453,22501, 927,1574, 72,22453,5754,  67, 309,  28
+"73","Halford et al 2009",50,"Scott Reef, Australia","Australia","Indian Ocean",-14.0756197, 121.98421,22469,    0, 73,22421,22469, 939,1526, 73,22421,22469, 939,1526, 73,22421,5725,  42, 270,  31
+"74","Reigl et al 2002",49,"Dubai, UAE","UAE","Arabian Gulf", 24.9863871,  54.98976,NA,NA, 74,NA,NA,NA,NA, 74,NA,NA,NA,NA, 74,NA,NA,NA,NA,NA
+"75","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER6_Outer_17, Moorea","Moorea","E. Pacific",-17.5117999,-149.92860,24239,   43, 75,24189,24239,  13,  84, 75,24189,24239,  13,  84, 75,24189,732,  26,  38, 654
+"76","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER2_Outer_10, Moorea","Moorea","E. Pacific",-17.4702999,-149.81120,24173,   81, 76,24123,24173,   8,  66, 76,24123,24173,   8,  66, 76,24123,7260,  68, 933, 233
+"77","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER4_Outer_10, Moorea","Moorea","E. Pacific",-17.5521999,-149.77030,24241,  356, 77,24191,24241,   1,  52, 77,24191,24241,   1,  52, 77,24191,7321,  71,1114,  38
+"78","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER5_Outer_10, Moorea","Moorea","E. Pacific",-17.5882999,-149.87140,24240,   30, 78,24190,24240,  22,  88, 78,24190,24240,  22,  88, 78,24190,7320,  90,1132,  36
+"79","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER2_Outer_17, Moorea","Moorea","E. Pacific",-17.4702999,-149.81120,24173,   81, 79,24123,24173,   8,  66, 79,24123,24173,   8,  66, 79,24123,7260,  68, 933, 233
+"80","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER5_Outer_17, Moorea","Moorea","E. Pacific",-17.5882999,-149.87140,24240,   30, 80,24190,24240,  22,  88, 80,24190,24240,  22,  88, 80,24190,7320,  90,1132,  36
+"81","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER3_Outer_17, Moorea","Moorea","E. Pacific",-17.5090999,-149.75840,NA,NA, 81,NA,NA,NA,NA, 81,NA,NA,NA,NA, 81,24191,7321,  71,1114,  38
+"82","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER4_Outer_17, Moorea","Moorea","E. Pacific",-17.5521999,-149.77030,24241,  356, 82,24191,24241,   1,  52, 82,24191,24241,   1,  52, 82,24191,7321,  71,1114,  38
+"83","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER6_Outer_10, Moorea","Moorea","E. Pacific",-17.5117999,-149.92860,24239,   43, 83,24189,24239,  13,  84, 83,24189,24239,  13,  84, 83,24189,732,  26,  38, 654
+"84","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER3_Outer_10, Moorea","Moorea","E. Pacific",-17.5090999,-149.75840,NA,NA, 84,NA,NA,NA,NA, 84,NA,NA,NA,NA, 84,24191,7321,  71,1114,  38
+"85","Holbrook et al 2018 using extract from data release of Guest 2018",48,"LTER1_Outer_17, Moorea","Moorea","E. Pacific",-17.4771999,-149.84610,24172,   54, 85,24122,24172,  13,  80, 85,24122,24172,  13,  80, 85,24122,726,   1, 459, 605
+"86","Baird et al 2018",47,"Trimodal Reef, Australia, Northern GBR","Australia","W. Pacific",-14.6997999, 145.44860,NA,NA, 86,NA,NA,NA,NA, 86,NA,NA,NA,NA, 86,22637,592,   9, 221,  79
+"87","Perry and Morgan 2017",46,"Kodehutigala, in Huvadhoo atoll, southern Maldives","Maldives","Indian Ocean",  0.2900001,  73.19000,12960,    4, 87,12936,12960,  30,1516, 87,12936,12960,  30,1516, 87,12936,21663, 178, 226,   2
+"88","Perry and Morgan 2017",46,"Kadumaigala, in Huvadhoo atoll, southern Maldives","Maldives","Indian Ocean",  0.2650751,  73.19000,13020,   15, 88,12996,13020,   8,1512, 88,12996,13020,   8,1512, 88,12996,21717, 613,1208,   0
+"89","Perry and Morgan 2017",46,"Mahutigala, Huvadhoo atoll, southern Maldives","Maldives","Indian Ocean",  0.2900001,  73.22000,12961,    5, 89,12937,12961,  19,1505, 89,12937,12961,  19,1505, 89,12937,21664, 134, 672,   0
+"90","Perry and Morgan 2017",46,"Kafigahlaa, in Huvadhoo atoll, southern Maldives","Maldives","Indian Ocean",  0.2900001,  73.20000,12960,    4, 90,12936,12960,  30,1516, 90,12936,12960,  30,1516, 90,12936,21663, 178, 226,   2
+"91","Perry and Morgan 2017",46,"Kandahalagala, in Huvadhoo atoll, southern Maldives","Maldives","Indian Ocean",  0.2300001,  73.22000,NA,NA, 91,NA,NA,NA,NA, 91,NA,NA,NA,NA, 91,12997,21718, 624,1181,   0
+"92","Carassou et al 2013",45,"Buck Island, USVI","USVI","Caribbean", 17.7918061, -64.62786, 4586,   56, 92, 4579, 4586,  19, 240, 92, 4579,4586,  19, 240, 92, 4579,14126,   4, 708,   1
+"93","Carassou et al 2013",45,"Yawzi Point, USVI","USVI","Caribbean", 18.3152301, -64.72583, 4302,  197, 93, 4295, 4302,   1,  41, 93, 4295,4302,   1,  41, 93, 4295,13871,   1, 945,   8
+"94","Carassou et al 2013",45,"Channel Caye, Belize","Belize","Caribbean", 16.6410441, -88.13850, 4957,  114, 94, 4950, 4957,  47, 114, 94, 4950,4957,  47, 114, 94, 4950,14461,  11,1292,  58
+"95","Carassou et al 2013",45,"Dairy Bull Reef, Jamaica","Aiats","Caribbean", 18.4686371, -77.38650, 4200,  422, 95, 4193, 4200,   1,  36, 95, 4193,4200,   1,  36, 95, 4193,13779,   1,1257,  79
+"96","Carassou et al 2013",45,"Discovery Bay, Jamaica","Jamaica","Caribbean", 18.4705281, -77.41050, 4200,  422, 96, 4193, 4200,   1,  36, 96, 4193,4200,   1,  36, 96, 4193,13779,   1,1257,  79
+"97","Muthiga 2009",44,"Kanamai, Kenya","Kenya","Indian Ocean", -3.9204719,  39.79315,15755, 8438, 97,15720,15755,   1,  27, 97,15720,15755,   1,  27, 97,15720,24174,  17,  28, 115
+"98","Muthiga 2009",44,"Vipingo, Kenya","Kenya","Indian Ocean", -3.8339049,  39.82785,15715,  505, 98,15681,15715,  17,  64, 98,15681,15715,  17,  64, 98,15681,24139,1320,1586,   0
+"99","Muthiga 2009",44,"Watamu, Kenya","Kenya","Indian Ocean", -3.3810819,  40.00072,15475,  617, 99,15443,15475,   4, 120, 99,15443,15475,   4, 120, 99,15443,23925,  28, 405,   7
+"100","Muthiga 2009",44,"Malindi, Kenya","Kenya","Indian Ocean", -3.2569039,  40.14175,15415, 5086,100,15383,15415,   1, 130,100,15383,15415,   1, 130,100,15383,23871,   1, 336,  44
+"101","Miller et al. 2009",43,"Tektite Reef, USVI","USVI","Caribbean", 18.3095701, -64.72172, 4302,  197,101, 4295, 4302,   1,  41,101, 4295,4302,   1,  41,101, 4295,13871,   1, 945,   8
+"102","Miller et al. 2009",43,"Newfound Reef, USVI","USVI","Caribbean", 18.3483026, -64.66845,NA,NA,102,NA,NA,NA,NA,102,NA,NA,NA,NA,102, 4295,13871,   1, 945,   8
+"103","Miller et al. 2009",43,"Haulover Reef, USVI","USVI","Caribbean", 18.3517151, -64.67961,NA,NA,103,NA,NA,NA,NA,103,NA,NA,NA,NA,103, 4295,13871,   1, 945,   8
+"104","Miller et al. 2009",43,"Mennebeck Reef, USVI","USVI","Caribbean", 18.3537781, -64.68218, 4302,  197,104, 4295, 4302,   1,  41,104, 4295,4302,   1,  41,104, 4295,13871,   1, 945,   8
+"105","Miller et al. 2009",43,"South Fore Reef, USVI","USVI","Caribbean", 17.7851677, -64.60760, 4586,   56,105, 4579, 4586,  19, 240,105, 4579,4586,  19, 240,105, 4579,14126,   4, 708,   1
+"106","Ledlie et al. 2007",42,"M2, Cousin Island, Seychelles","Seychelles","Indian Ocean", -4.3279460,  55.66101,15958,   53,106,15923,15958,   1, 120,106,15923,15958,   1, 120,106,15923,24357,  29,1604,   1
+"107","Ledlie et al. 2007",42,"M1 Cousin Island, Seychelles","Seychelles","Indian Ocean", -4.3322049,  55.65729,15958,   53,107,15923,15958,   1, 120,107,15923,15958,   1, 120,107,15923,24357,  29,1604,   1
+"108","Graham et al 2015, Wilson et al 2012",41,"Praslin SW Carbonate, Seychelles","Seychelles","Indian Ocean", -4.3543165,  55.71224,15958,   53,108,15923,15958,   1, 120,108,15923,15958,   1, 120,108,15923,24357,  29,1604,   1
+"109","Graham et al 2015, Wilson et al 2012",41,"Mahe W Patch, Seychelles","Seychelles","Indian Ocean", -4.6892788,  55.43686,16126,  194,109,16091,16126,   1,  16,109,16091,16126,   1,  16,109,16091,24508,  48, 132, 105
+"110","Graham et al 2015, Wilson et al 2012",41,"Mahe NW Granitic, Seychelles","Seychelles","Indian Ocean", -4.5591295,  55.43642,16079,  357,110,16044,16079,   6,   8,110,16044,16079,   6,   8,110,16044,24466,  88, 636,  31
+"111","Graham et al 2015, Wilson et al 2012",41,"Mahe NW Patch, Seychelles","Seychelles","Indian Ocean", -4.6131955,  55.41618,16079,  357,111,16044,16079,   6,   8,111,16044,16079,   6,   8,111,16044,24466,  88, 636,  31
+"112","Graham et al 2015, Wilson et al 2012",41,"Mahe W Granitic, Seychelles","Seychelles","Indian Ocean", -4.6585687,  55.36219,16126,  194,112,16091,16126,   1,  16,112,16091,16126,   1,  16,112,16091,24508,  48, 132, 105
+"113","Graham et al 2015, Wilson et al 2012",41,"Mahe E Granitic, Seychelles","Seychelles","Indian Ocean", -4.7344459,  55.52939,16179,  682,113,16144,16179,   1,  29,113,16144,16179,   1,  29,113,16144,24556, 801, 954,   0
+"114","Graham et al 2015, Wilson et al 2012",41,"Mahe E Patch, Seychelles","Seychelles","Indian Ocean", -4.7036613,  55.53085,16127,   16,114,16092,16127,   1,  77,114,16092,16127,   1,  77,114,16092,24509,  19, 183,  13
+"115","Graham et al 2015, Wilson et al 2012",41,"Praslin NE Granitic, Seychelles","Seychelles","Indian Ocean", -4.2894670,  55.70383,NA,NA,115,NA,NA,NA,NA,115,NA,NA,NA,NA,115,15923,24357,  29,1604,   1
+"116","Graham et al 2015, Wilson et al 2012",41,"Mahe NW Carbonate, Seychelles","Seychelles","Indian Ocean", -4.6375583,  55.37413,16079,  357,116,16044,16079,   6,   8,116,16044,16079,   6,   8,116,16044,24466,  88, 636,  31
+"117","Graham et al 2015, Wilson et al 2012",41,"Praslin SW Granitic, Seychelles","Seychelles","Indian Ocean", -4.3157506,  55.68186,15958,   53,117,15923,15958,   1, 120,117,15923,15958,   1, 120,117,15923,24357,  29,1604,   1
+"118","Graham et al 2015, Wilson et al 2012",41,"Praslin SW Patch, Seychelles","Seychelles","Indian Ocean", -4.3370353,  55.69790,15958,   53,118,15923,15958,   1, 120,118,15923,15958,   1, 120,118,15923,24357,  29,1604,   1
+"119","Graham et al 2015, Wilson et al 2012",41,"Mahe W Carbonate, Seychelles","Seychelles","Indian Ocean", -4.6683417,  55.40038,NA,NA,119,NA,NA,NA,NA,119,NA,NA,NA,NA,119,16091,24508,  48, 132, 105
+"120","Graham et al 2015, Wilson et al 2012",41,"Praslin NE Patch, Seychelles","Seychelles","Indian Ocean", -4.3043903,  55.74493,15959, 2334,120,15924,15959,   1, 123,120,15924,15959,   1, 123,120,15924,24358,  26,1571,   1
+"121","Graham et al 2015, Wilson et al 2012",41,"Cousin Granitic , Seychelles","Seychelles","Indian Ocean", -4.3315470,  55.66661,15958,   53,121,15923,15958,   1, 120,121,15923,15958,   1, 120,121,15923,24357,  29,1604,   1
+"122","Graham et al 2015, Wilson et al 2012",41,"Ste. Anne Granitic, Seychelles","Seychelles","Indian Ocean", -4.6067907,  55.51412,16080,  237,122,16045,16080,   7,  10,122,16045,16080,   7,  10,122,16045,24467,  37, 657,  27
+"123","Graham et al 2015, Wilson et al 2012",41,"Ste. Anne Carbonate, Seychelles","Seychelles","Indian Ocean", -4.6123528,  55.49402,16080,  237,123,16045,16080,   7,  10,123,16045,16080,   7,  10,123,16045,24467,  37, 657,  27
+"124","Graham et al 2015, Wilson et al 2012",41,"Praslin NE Carbonate, Seychelles","Seychelles","Indian Ocean", -4.3170627,  55.75892,15959, 2334,124,15924,15959,   1, 123,124,15924,15959,   1, 123,124,15924,24358,  26,1571,   1
+"125","Graham et al 2015, Wilson et al 2012",41,"Mahe E Carbonate, Seychelles","Seychelles","Indian Ocean", -4.7080691,  55.53079,16127,   16,125,16092,16127,   1,  77,125,16092,16127,   1,  77,125,16092,24509,  19, 183,  13
+"126","Graham et al 2015, Wilson et al 2012",41,"Cousin Patch, Seychelles","Seychelles","Indian Ocean", -4.3334146,  55.65910,15958,   53,126,15923,15958,   1, 120,126,15923,15958,   1, 120,126,15923,24357,  29,1604,   1
+"127","Graham et al 2015, Wilson et al 2012",41,"Ste Anne Patch, Seychelles","Seychelles","Indian Ocean", -4.6193224,  55.50649,16080,  237,127,16045,16080,   7,  10,127,16045,16080,   7,  10,127,16045,24467,  37, 657,  27
+"128","Graham et al 2015, Wilson et al 2012",41,"Cousin Carbonate, Seychelles","Seychelles","Indian Ocean", -4.3285571,  55.66096,15958,   53,128,15923,15958,   1, 120,128,15923,15958,   1, 120,128,15923,24357,  29,1604,   1
+"129","Done et al. 2007",40,"Pandora, GBR","Australia","W. Pacific",-18.8116666, 146.44333,24854,   11,129,24803,24854,  58, 149,129,24803,24854,  58, 149,129,24803,7875,  46,1207,  45
+"130","Booth et al 2002",39,"One Tree Island Lagoon, GBR (Entrance)","Australia","W. Pacific",-23.4849959, 152.08052,26970,    6,130,26917,26970, 222, 427,130,26917,26970, 222, 427,130,26917,9783,  20,  87, 104
+"131","Booth et al 2002",39,"One Tree Island Lagoon, GBR (No Bommies)","Australia","W. Pacific",-23.4998488, 152.09130,26970,    6,131,26917,26970, 222, 427,131,26917,26970, 222, 427,131,26917,9783,  20,  87, 104
+"132","Booth et al 2002",39,"One Tree Island Lagoon, GBR (Maze)","Australia","W. Pacific",-23.5018352, 152.08130,26970,    6,132,26917,26970, 222, 427,132,26917,26970, 222, 427,132,26917,9783,  20,  87, 104
+"133","Booth et al 2002",39,"One Tree Island Lagoon, GBR (Big Bommies)","Australia","W. Pacific",-23.4941210, 152.08085,26970,    6,133,26917,26970, 222, 427,133,26917,26970, 222, 427,133,26917,9783,  20,  87, 104
+"134","Booth et al 2002",39,"One Tree Island Lagoon, GBR (Centre Bommie)","Australia","W. Pacific",-23.4976021, 152.07952,26970,    6,134,26917,26970, 222, 427,134,26917,26970, 222, 427,134,26917,9783,  20,  87, 104
+"135","Woodley et al. 1981",38,"Jamaica, West Fore Reef, reef lobe","Jamaica","Caribbean", 18.4000001, -78.40000,NA,NA,135,NA,NA,NA,NA,135,NA,NA,NA,NA,135,NA,NA,NA,NA,NA
+"136","Rodgers et al. 1982",37,"St. Croix, US Virgin Islands, Robin Bay","USVI","Caribbean", 17.7227627, -64.62814, 4615,  136,136, 4608, 4615,   4, 254,136, 4608,4615,   4, 254,136, 4608,14152,  63, 708,   9
+"137","Rodgers and Miller 2006",36,"St. John, US Virgin Islands, Lameshur Reef","USVI","Caribbean", 18.3143694, -64.72565, 4302,  197,137, 4295, 4302,   1,  41,137, 4295,4302,   1,  41,137, 4295,13871,   1, 945,   8
+"138","Rodgers and Miller 2006",36,"St. John, US Virgin Islands, Lameshur Reef","USVI","Caribbean", 18.3143694, -64.72565, 4302,  197,138, 4295, 4302,   1,  41,138, 4295,4302,   1,  41,138, 4295,13871,   1, 945,   8
+"139","Loya et al. 2001",34,"Sesko Island; Okinawa, Japan ","Japan","W. Pacific", 26.6333334, 127.86667,  596,  278,139,  596,  596,   1,  88,139,  596,596,   1,  88,139,  596,10532,  27, 193, 128
+"140","Ostrander et al. 2000",33,"San Salvador Island, Bahamas","Bahamas","Caribbean", 24.0251985, -74.54296, 1766,    3,140, 1766, 1766,  36, 803,140, 1766,1766,  36, 803,140, 1766,1159,  17, 278,  18
+"141","Edwards et al. 2001",32,"Thuvaru, Maldives","Maldives","Indian Ocean",  2.9999001,  73.49900,11756,    5,141,11733,11756,  20, 452,141,11733,11756,  20, 452,141,11733,20579,  16, 604,   7
+"142","Edwards et al. 2001",32,"Maduvvari, Maldi","Maldives","Indian Ocean",  5.4863392,  72.89659,11084,  286,142,11061,11084,   3, 576,142,11061,11084,   3, 576,142,11061,19975,  49, 308,   2
+"143","Edwards et al. 2001",32,"Bandos Maldives","Maldives","Indian Ocean",  4.2697171,  73.49153,11456,  120,143,11433,11456,   6,  29,143,11433,11456,   6,  29,143,11433,20308,   1, 557,   3
+"144","Edwards et al. 2001",32,"Thuvaru, Maldives","Maldives","Indian Ocean",  2.9999001,  73.49900,11756,    5,144,11733,11756,  20, 452,144,11733,11756,  20, 452,144,11733,20579,  16, 604,   7
+"145","Edwards et al. 2001",32,"Male, Maldives","Maldives","Indian Ocean",  4.2839073,  73.45705,11455,   84,145,11432,11455,   7,  34,145,11432,11455,   7,  34,145,11432,20307,  30, 566,   1
+"146","Edwards et al. 2001",32,"Felidhu Maldives","Maldives","Indian Ocean",  3.4743901,  73.48102,11640,    4,146,11617,11640,   3, 286,146,11617,11640,   3, 286,146,11617,20474,  44, 322,   8
+"147","Edwards et al. 2001",32,"Maduvvari, Maldi","Maldives","Indian Ocean",  5.4863392,  72.89659,11084,  286,147,11061,11084,   3, 576,147,11061,11084,   3, 576,147,11061,19975,  49, 308,   2
+"148","Edwards et al. 2001",32,"Felidhu Maldives","Maldives","Indian Ocean",  3.4743901,  73.48102,11640,    4,148,11617,11640,   3, 286,148,11617,11640,   3, 286,148,11617,20474,  44, 322,   8
+"149","Muhando & Lanshammar 2008",31,"Bawe, Zanzibar, Tanzania, all hard corals","Tanzania","Indian Ocean", -6.1741026,  39.19239,NA,NA,149,NA,NA,NA,NA,149,NA,NA,NA,NA,149,17337,25630, 345, 650,   2
+"150","Muhando & Lanshammar 2008",31,"Changuu, Zanzibar, Tanzania, all hard corals","Tanzania","Indian Ocean", -6.1189999,  39.16700,17317,  875,150,17278,17317,  15,  20,150,17278,17317,  15,  20,150,17278,25578,  40,4029,   2
+"151","Muhando & Lanshammar 2008",31,"Chumbe, Zanzibar, Tanzania, all hard corals","Tanzania","Indian Ocean", -6.2789999,  39.17700,17419,  418,151,17380,17419,  24,  41,151,17380,17419,  24,  41,151,17380,2567, 246, 376,  24
+"152","Done et al 1988",30,"John Brewer reef, GBR","Australia","W. Pacific",-18.6332999, 147.05000,24782,    4,152,24731,24782, 124, 248,152,24731,24782, 124, 248,152,24731,781,3504,4801,   0
+"153","Done 1985",29,"John Brewer, GBR (1974-1983)","Australia","W. Pacific",-18.6332999, 147.05000,24782,    4,153,24731,24782, 124, 248,153,24731,24782, 124, 248,153,24731,781,3504,4801,   0
+"154","Done 1985",29,"John Brewer, GBR (1983-1984)","Australia","W. Pacific",-18.6332999, 147.05000,24782,    4,154,24731,24782, 124, 248,154,24731,24782, 124, 248,154,24731,781,3504,4801,   0
+"155","Crabbe 2009",28,"Discovery Bay, Jamaica","Jamaica","Caribbean", 18.4703904, -77.41167, 4199,  102,155, 4192, 4199,  48,  89,155, 4192,4199,  48,  89,155, 4192,13778,   8,1561,  24
+"156","Spalding et al 2002 ",27,"South St. Pierre, Seychelles Islands ","Seychelles","Indian Ocean", -9.3340370,  50.73471,19734,    0,156,19692,19734,  13,1225,156,19692,19734,  13,1225,156,19692,3267,   9, 125, 237
+"157","Spalding et al 2002 ",27,"West Alphonse, Seychelles Islands","Seychelles","Indian Ocean", -7.0316443,  52.72217,17841,    0,157,17801,17841,1058,1224,157,17801,17841,1058,1224,157,17801,26048,  24,  58,  24
+"158","Spalding et al 2002 ",27,"Cousine Island, Seychelles Islands","Seychelles","Indian Ocean", -4.3479776,  55.64937,NA,NA,158,NA,NA,NA,NA,158,NA,NA,NA,NA,158,15923,24357,  29,1604,   1
+"159","Spalding et al 2002 ",27,"North St. Pierre, Seychelles Islands","Seychelles","Indian Ocean", -9.3263697,  50.72187,19734,    0,159,19692,19734,  13,1225,159,19692,19734,  13,1225,159,19692,3267,   9, 125, 237
+"160","Pratchett et al 2009 ",26,"Bootless Bay, Papau New Guinea ","Papua New Guinea","W. Pacific", -9.5429530, 147.29116,NA,NA,160,NA,NA,NA,NA,160,NA,NA,NA,NA,160,19872,3429,   2, 806, 107
+"161","Pratchett 2010",25,"Lizard Island, GBR","Australia","W. Pacific",-14.6696963, 145.46055,NA,NA,161,NA,NA,NA,NA,161,NA,NA,NA,NA,161,22637,592,   9, 221,  79
+"162","Guillemot et al 2010",24,"Barrier reefs far from pass, New Caledonia","New Caledonia","W. Pacific",-21.1286406, 164.67376,26103,    6,162,26052,26103,  19, 302,162,26052,26103,  19, 302,162,26052,9001,   7, 665, 394
+"163","Guillemot et al 2010",24,"barrier reefs near pass, New Caledonia","New Caledonia","W. Pacific",-21.1286406, 164.67376,26103,    6,163,26052,26103,  19, 302,163,26052,26103,  19, 302,163,26052,9001,   7, 665, 394
+"164","Guillemot et al 2010",24,"Patch reefs, New Caledonia","New Caledonia","W. Pacific",-21.1286406, 164.67376,26103,    6,164,26052,26103,  19, 302,164,26052,26103,  19, 302,164,26052,9001,   7, 665, 394
+"165","Dollar 1982",23,"Rubble Zone, Hawaii Island","Hawaii","E. Pacific", 19.5063370,-156.00230,NA,NA,165,NA,NA,NA,NA,165,NA,NA,NA,NA,165,NA,NA,NA,NA,NA
+"166","Dollar 1982",23,"Boulder Zone, Hawaii Island","Hawaii","E. Pacific", 19.5063370,-156.00230,NA,NA,166,NA,NA,NA,NA,166,NA,NA,NA,NA,166,NA,NA,NA,NA,NA
+"167","Dollar 1982",23,"Slope Zone, Hawaii Island","Hawaii","E. Pacific", 19.5063370,-156.00230,NA,NA,167,NA,NA,NA,NA,167,NA,NA,NA,NA,167,NA,NA,NA,NA,NA
+"168","Diaz-Pulido et al, 2009",22,"North Keppel Island, GBR","Australia","W. Pacific",-23.0853832, 150.89972,26881,   14,168,26828,26881,  34, 126,168,26828,26881,  34, 126,168,26828,9702,   9, 419,   0
+"169","Diaz-Pulido et al, 2009",22,"Barren Island, GBR","Australia","W. Pacific",-23.1632666, 151.09178,26901,    8,169,26848,26901,  97, 161,169,26848,26901,  97, 161,169,26848,9720, 819, 980,   2
+"170","Diaz-Pulido et al, 2009",22,"Halfway Island, GBR","Australia","W. Pacific",-23.2032166, 150.96978,26899,   17,170,26846,26899,  42, 107,170,26846,26899,  42, 107,170,26846,9719, 998,1149,   1
+"171","Diaz-Pulido et al, 2009",22,"Middle Island, GBR","Australia","W. Pacific",-23.1649332, 150.92367,26899,   17,171,26846,26899,  42, 107,171,26846,26899,  42, 107,171,26846,9719, 998,1149,   1
+"172","Robbart et al, 2004",21,"Belize, Wee Wee","Belize","Caribbean", 16.7649050, -88.14644, 4927,  113,172, 4920, 4927,  44,  91,172, 4920,4927,  44,  91,172, 4920,14434,  13,1271,   8
+"173","Robbart et al, 2004",21,"Belize, Peter Douglas","Belize","Caribbean", 16.7098977, -88.17571, 4927,  113,173, 4920, 4927,  44,  91,173, 4920,4927,  44,  91,173, 4920,14434,  13,1271,   8
+"174","Robbart et al, 2004",21,"Belize, Tunicate","Belize","Caribbean", 16.7000001, -88.10000, 4928,  103,174, 4921, 4928,  68, 101,174, 4921,4928,  68, 101,174, 4921,14435,   1,1353,   4
+"175","Naim et al 2000",19,"St. Leu, Reunion Island (both sites)","Reunion","Indian Ocean",-21.1649999,  55.28500,26127, 1620,175,26076,26127,   1,  56,175,26076,26127,   1,  56,175,26076,9023,  24,1375,   1
+"176","Edmunds 2002",18,"St. John, USVI, Site 9","USVI","Caribbean", 18.3171334, -64.72778,NA,NA,176,NA,NA,NA,NA,176,NA,NA,NA,NA,176, 4295,13871,   1, 945,   8
+"177","Edmunds 2002",18,"St. John, US Virgin Islands Tektite Reef","USVI","Caribbean", 18.3097001, -64.72285, 4302,  197,177, 4295, 4302,   1,  41,177, 4295,4302,   1,  41,177, 4295,13871,   1, 945,   8
+"178","Edmunds 2002",18,"St. John, USVI, Site 11","USVI","Caribbean", 18.3162668, -64.72972,NA,NA,178,NA,NA,NA,NA,178,NA,NA,NA,NA,178, 4295,13871,   1, 945,   8
+"179","Edmunds 2002",18,"St. John, USVI, Site 2","USVI","Caribbean", 18.3067334, -64.72180, 4302,  197,179, 4295, 4302,   1,  41,179, 4295,4302,   1,  41,179, 4295,13871,   1, 945,   8
+"180","Edmunds 2002",18,"St. John, USVI, Site 5","USVI","Caribbean", 18.3126668, -64.72305, 4302,  197,180, 4295, 4302,   1,  41,180, 4295,4302,   1,  41,180, 4295,13871,   1, 945,   8
+"181","Edmunds 2002",18,"St. John, USVI, Site 15","USVI","Caribbean", 18.3151668, -64.73278,NA,NA,181,NA,NA,NA,NA,181,NA,NA,NA,NA,181, 4294,13870,   1, 969,   4
+"182","Edmunds 2002",18,"St. John, USVI, Site 6","USVI","Caribbean", 18.3113668, -64.72280, 4302,  197,182, 4295, 4302,   1,  41,182, 4295,4302,   1,  41,182, 4295,13871,   1, 945,   8
+"183","Edmunds 2002",18,"St. John, US Virgin Islands Yawzi Point","USVI","Caribbean", 18.3152001, -64.72500,NA,NA,183,NA,NA,NA,NA,183,NA,NA,NA,NA,183, 4295,13871,   1, 945,   8
+"184","Hagan & Spencer 2008",17,"Alphonse Atoll, Seychelles","Seychelles","Indian Ocean", -7.0008043,  52.71916,17841,    0,184,17801,17841,1058,1224,184,17801,17841,1058,1224,184,17801,26048,  24,  58,  24
+"185","Arthur et al 2006",16,"Agatti West, Lakshadweep","Lakshadweep","Indian Ocean", 10.8730458,  72.17782, 7764,   30,185, 7751, 7764,  45, 175,185, 7751,7764,  45, 175,185, 7751,16990,   7,1901,   5
+"186","Arthur et al 2006",16,"Agatti East, Lakshadweep","Lakshadweep","Indian Ocean", 10.8423040,  72.18915, 7764,   30,186, 7751, 7764,  45, 175,186, 7751,7764,  45, 175,186, 7751,16990,   7,1901,   5
+"187","Arthur et al 2006",16,"Kadmat West, Lakshadweep","Lakshadweep","Indian Ocean", 11.2069933,  72.75008, 7457,   60,187, 7445, 7457,  14, 259,187, 7445,7457,  14, 259,187, 7445,16713,  14,1201,   1
+"188","Arthur et al 2006",16,"Kadmat East, Lakshadweep","Lakshadweep","Indian Ocean", 11.2014915,  72.77008, 7458,   62,188, 7446, 7458,   7, 269,188, 7446,7458,   7, 269,188, 7446,16714,  21,1228,   1
+"189","Sheppard et al 2008",15,"Northern Atolls, Chagos (20m)","Chagos (20m)","Indian Ocean", -5.3300000,  72.08000,NA,NA,189,NA,NA,NA,NA,189,NA,NA,NA,NA,189,NA,NA,NA,NA,NA
+"190","Sheppard et al 2008",15,"Northern Atolls, Chagos (5m)","Chagos (5m)","Indian Ocean", -5.3300000,  72.08000,NA,NA,190,NA,NA,NA,NA,190,NA,NA,NA,NA,190,NA,NA,NA,NA,NA
+"191","Sheppard et al 2008",15,"Northern Atolls, Chagos (10m)","Chagos (10m)","Indian Ocean", -5.3300000,  72.08000,NA,NA,191,NA,NA,NA,NA,191,NA,NA,NA,NA,191,NA,NA,NA,NA,NA
+"192","Sheppard et al 2008",15,"Northern Atolls, Chagos (25m)","Chagos (25m)","Indian Ocean", -5.3300000,  72.08000,NA,NA,192,NA,NA,NA,NA,192,NA,NA,NA,NA,192,NA,NA,NA,NA,NA
+"193","Colgan 1987",14,"Tanguisson Reef, Guam, Reef Front","Guam","W. Pacific", 13.5436107, 144.80710, 6072,   39,193, 6065, 6072,  10,  74,193, 6065,6072,  10,  74,193, 6065,15467,   1,1511,   9
+"194","Colgan 1987",14,"Tanguisson Reef, Guam, Submarine Terrace","Guam","W. Pacific", 13.5436107, 144.80710, 6072,   39,194, 6065, 6072,  10,  74,194, 6065,6072,  10,  74,194, 6065,15467,   1,1511,   9
+"195","Colgan 1987",14,"Tanguisson Reef, Guam, Seaward Slope","Guam","W. Pacific", 13.5436107, 144.80710, 6072,   39,195, 6065, 6072,  10,  74,195, 6065,6072,  10,  74,195, 6065,15467,   1,1511,   9
+"196","Connell et al. 1997",13,"Heron Island, GBR exposed crest 1962-1971","Australia","W. Pacific",-23.4419999, 151.91400,NA,NA,196,NA,NA,NA,NA,196,NA,NA,NA,NA,196,26903,9770,  85, 149,  55
+"197","Connell et al. 1997",13,"Heron Island, GBR exposed pools","Australia","W. Pacific",-23.4419999, 151.91400,NA,NA,197,NA,NA,NA,NA,197,NA,NA,NA,NA,197,26903,9770,  85, 149,  55
+"198","Connell et al. 1997",13,"Heron Island, GBR exposed crest 1971-1992","Australia","W. Pacific",-23.4419999, 151.91400,NA,NA,198,NA,NA,NA,NA,198,NA,NA,NA,NA,198,26903,9770,  85, 149,  55
+"199","Buckley et al 2008; Stobart et al 2002",12,"Assomption, Seychelles (10m site)","Seychelles","Indian Ocean", -9.6999999,  46.50000,20016,    1,199,19973,20016,  19,1209,199,19973,20016,  19,1209,199,19973,3520,  66, 120, 203
+"200","Buckley et al 2008; Stobart et al 2002",12,"Assomption, Seychelles (20m site)","Seychelles","Indian Ocean", -9.6999999,  46.50000,20016,    1,200,19973,20016,  19,1209,200,19973,20016,  19,1209,200,19973,3520,  66, 120, 203
+"201","Buckley et al 2008; Stobart et al 2002",12,"Astove, Seychelles (10m site)","Seychelles","Indian Ocean",-10.0799999,  47.75000,20230,    2,201,20187,20230,   4, 961,201,20187,20230,   4, 961,201,20187,3713,  42,  67, 155
+"202","Buckley et al 2008; Stobart et al 2002",12,"Astove, Seychelles (20m site)","Seychelles","Indian Ocean",-10.0799999,  47.75000,20230,    2,202,20187,20230,   4, 961,202,20187,20230,   4, 961,202,20187,3713,  42,  67, 155
+"203","Buckley et al 2008; Stobart et al 2002",12,"St. Pierre, Seychelles (10m site)","Seychelles","Indian Ocean", -9.3289915,  50.72545,19734,    0,203,19692,19734,  13,1225,203,19692,19734,  13,1225,203,19692,3267,   9, 125, 237
+"204","Buckley et al 2008; Stobart et al 2002",12,"St. Pierre, Seychelles (20m site)","Seychelles","Indian Ocean", -9.3289915,  50.72545,19734,    0,204,19692,19734,  13,1225,204,19692,19734,  13,1225,204,19692,3267,   9, 125, 237
+"205","Stobart et al. 2005; Buckley et al 2008",11,"Aldabra, Seychelles (10m site)","Seychelles","Indian Ocean", -9.4199999,  46.42000,19816,    1,205,19774,19816,  20,1224,205,19774,19816,  20,1224,205,19774,3340,  47, 156,  84
+"206","Stobart et al. 2005; Buckley et al 2008",11,"Aldabra, Seychelles (20m site)","Seychelles","Indian Ocean", -9.4199999,  46.42000,19816,    1,206,19774,19816,  20,1224,206,19774,19816,  20,1224,206,19774,3340,  47, 156,  84
+"207","Guzman & Cortes, 2007",10,"Chatham, Cocos Island, Costa Rica","Costa Rica","E. Pacific",  5.5400001, -87.05000,NA,NA,207,NA,NA,NA,NA,207,NA,NA,NA,NA,207,11026,19943,  12, 179,  11
+"208","Guzman & Cortes, 2007",10,"Presidio, Cocos Island, Costa Rica","Costa Rica","E. Pacific",  5.5500001, -87.06600,NA,NA,208,NA,NA,NA,NA,208,NA,NA,NA,NA,208,11025,19942,   6, 155,  18
+"209","Dollar & Tribble, 1993", 9,"Hawai'i west coast","Hawaii","E. Pacific", 19.5063372,-156.00230,NA,NA,209,NA,NA,NA,NA,209,NA,NA,NA,NA,209,NA,NA,NA,NA,NA
+"210","Brown & Suharsono, 1990", 8,"Pulau Pari Islands, Indonesia (Pari)","Indonesia ","W. Pacific", -5.8632130, 106.61598,17114, 1469,210,17075,17114,  75, 122,210,17075,17114,  75, 122,210,17075,25395,  12, 539,   2
+"211","Brown & Suharsono, 1990", 8,"Pulau Pari Islands, Indonesia (Tikus)","Indonesia","W. Pacific", -5.8632464, 106.58243,17113, 1349,211,17074,17113,  65, 132,211,17074,17113,  65, 132,211,17074,25394,   7, 528,   2
+"212","Coles & Brown, 2007", 7,"Kahe Point, O'ahu, Hawai'i","Hawaii","E. Pacific", 21.3541667,-158.14686, 3008, 1531,212, 3005, 3008,   3,  42,212, 3005,3008,   3,  42,212, 3005,12704,  11, 224, 178
+"213","Smith et al. 2008", 6,"Scott Reef System , NW Australia","Australia","Indian Ocean",-14.0666666, 121.76667,22466,    0,213,22418,22466, 971,1551,213,22418,22466, 971,1551,213,22418,5722,  20, 439, 254
+"214","Golbuu et al 2007", 5,"Palau (patch)","Palau","W. Pacific",  7.5300001, 134.56000,NA,NA,214,NA,NA,NA,NA,214,NA,NA,NA,NA,214,10024,19039,   1,1102,  12
+"215","Golbuu et al 2007", 5,"Palau (west exposed)","Palau","W. Pacific",  7.5300001, 134.56000,NA,NA,215,NA,NA,NA,NA,215,NA,NA,NA,NA,215,10024,19039,   1,1102,  12
+"216","Golbuu et al 2007", 5,"Palau (east exposed)","Palau","W. Pacific",  7.5300001, 134.56000,NA,NA,216,NA,NA,NA,NA,216,NA,NA,NA,NA,216,10024,19039,   1,1102,  12
+"217","Adjeroud et al 2009", 4,"Tiahura Reef, Moorea","Moorea","E. Pacific",-17.4999999,-149.83333,NA,NA,217,NA,NA,NA,NA,217,NA,NA,NA,NA,217,24122,726,   1, 459, 605
+"218","Sano 2000", 3,"Iriomote Island, Japan","Japan","W. Pacific", 24.3333334, 123.70000, 1601,   37,218, 1601, 1601,  45, 728,218, 1601,1601,  45, 728,218, 1601,11440,   9,1189,  60
+"219","Halford et al. 2004", 2,"Lodestone, GBR","Australia","W. Pacific",-18.6894696, 147.07180,24823,    4,219,24772,24823, 137, 226,219,24772,24823, 137, 226,219,24772,7847,   3,  69, 262
+"220","Halford et al. 2004", 2,"Rib, GBR","Australia","W. Pacific",-18.4810909, 146.83813,24708,    4,220,24657,24708, 110, 297,220,24657,24708, 110, 297,220,24657,7743,  14, 730, 637
+"221","Halford et al. 2004", 2,"John Brewer, GBR","GBR","W. Pacific",-18.6319700, 147.01897,24782,    4,221,24731,24782, 124, 248,221,24731,24782, 124, 248,221,24731,781,3504,4801,   0
+"222","Emslie et al 2008", 1,"Carter Reef, GBR, Australia","Australia","W. Pacific",-14.5459660, 145.51900,22656,    1,222,22607,22656, 190, 591,222,22607,22656, 190, 591,222,22607,5893,   1, 445, 363
+"223","Emslie et al 2008", 1,"Wreck Island, GBR, Australia","Australia","W. Pacific",-23.3302789, 151.93086,26939,    5,223,26886,26939, 232, 385,223,26886,26939, 232, 385,223,26886,9755,  48,2211,   0

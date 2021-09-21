@@ -1,0 +1,84 @@
+,study,study_ID,location,region,lat,long,reef.type,reef.zone,MPA,mindepth,maxdepth,disturbance,distrubance.year,pre.dist.cc,pre.dist.year,post.dist.cc,post.dist.year,recovery.cc,recovery.year,resistance.time,recovery_time,calculated.recovery.rate,recovery.rate,resistance.rate,richness,hii100km,hii75km,hii50km,hii25km,hii10km
+1,Emslie et al 2008,1,"Lizard Island, GBR",W. Pacific,-14.6,145.47,barrier,slope,NA,6,9,Storm,1993,NA,n/a,14,1993,59.1,1999,NA,6,7.516666667,7.52,NA,421,38028,19192,3464,44,40
+2,Emslie et al 2008,1,"One Tree Island, GBR",W. Pacific,-23.507,152.091,barrier,slope,NA,6,9,Storm,1993,86.7,1987,8.2,1993,66.5,2003,6,10,5.83,5.83,-13.08333333,357,38502,1248,8,NA,NA
+3,Halford et al. 2004,2,"John Brewer, GBR",W. Pacific,-18.5,147,barrier,slope,NA,6,9,COTS,1983-1984,66,1982,3.48,1985,66.29,1996,3,11,5.71,5.71,-20.84,412,80780,4117,500,NA,NA
+4,Halford et al. 2004,2,"Lodestone, GBR",W. Pacific,-18.6,147.1,barrier,slope,NA,6,9,COTS,1983-1984,66,1982,6.86,1985,59.43,1996,3,11,4.779090909,4.78,-19.71333333,412,78140,3475,100,NA,NA
+5,Halford et al. 2004,2,"Rib, GBR",W. Pacific,-18.481,146.87,barrier,slope,NA,6,9,COTS,1983-1984,73.14,1982,12,1985,80,1996,3,11,6.181818182,6.18,-20.38,413,99358,17818,1010,NA,NA
+6,Sano 2000,3,"Iriomote Island, Japan",W. Pacific,24.346,123.801,fringing,mixed,NA,1,1,COTS,1982,NA,n/a,0.1,1987,100,1995,NA,8,12.4875,12.49,NA,400,19062,18106,17013,8118,5834
+7,Adjeroud et al 2009,4,"Tiahura Reef, Moorea",E. Pacific,-17,-149,barrier,slope,NA,12,12,Bleaching,1991,50.94,1991,24.9,1992,51.17,2004,1,12,2.189166667,2.19,-26.04,177,22986,1734,NA,NA,NA
+8,Golbuu et al 2007,5,Palau (west exposed),W. Pacific,7.53,134.56,fringing,slope,NA,3,10,Bleaching,1998,NA,n/a,19,2001,30.5,2004,NA,3,3.833333333,3.83,NA,343,10049,9963,9692,9380,5108
+9,Golbuu et al 2007,5,Palau (east exposed),W. Pacific,7.53,134.56,fringing,slope,NA,3,10,Bleaching,1998,NA,n/a,13.05,2001,19.05,2004,NA,3,2,2,NA,343,10049,9963,9692,9380,5108
+10,Golbuu et al 2007,5,Palau (patch),W. Pacific,7.53,134.56,fringing,patch,NA,3,10,Bleaching,1998,NA,n/a,6.29,2001,19.365,2004,NA,3,4.358333333,4.36,NA,343,10049,9963,9692,9380,5108
+11,Smith et al. 2008,6,"Scott Reef System , NW Australia",W. Pacific,-13.6,122,atoll,slope,NA,9,9,Bleaching,1998,48.24,1998,10.96,1999,19.5,2005,1,6,1.423333333,1.42,-37.28,360,NA,NA,NA,NA,NA
+12,"Coles & Brown, 2007",7,"Kahe Point, O'ahu, Hawai'i",E. Pacific,21.35,-158.13,fringing,patch,NA,3,5,Storm,1980,NA,n/a,19.9,1981,22.68466667,1987,NA,6,0.464111111,0.46,NA,60,81343,77785,77785,38806,9188
+13,"Brown & Suharsono, 1990",8,"Pulau Pari Islands, Indonesia (Pari)",W. Pacific,-5,106.6,fringing,flat,NA,0.5,3,Bleaching,1982-1983,22.17,1981,3.61,1983,14.12,1988,2,5,2.102,2.1,-9.28,552,20899,120,10,NA,NA
+14,"Brown & Suharsono, 1990",8,"Pulau Pari Islands, Indonesia (Tikus)",W. Pacific,-5.8,106.6,fringing,flat,NA,0.5,3,Bleaching,1982-1983,25.98,1981,2.17,1983,15.88,1985,2,2,6.855,6.86,-11.905,552,380635,216033,63104,355,60
+15,"Dollar & Tribble, 1993",9,Hawai'i west coast,E. Pacific,19.7,-156.18,fringing,mixed,NA,3,40,Storm,1980,45.8,1974,10.5,1980,15,1992,6,12,0.375,0.38,-5.883333333,60,133189,87940,36613,7636,NA
+16,"Guzman & Cortes, 2007",10,"Chatham, Cocos Island, Costa Rica",E. Pacific,5.54,-87.05,fringing,mixed,NA,3,18,Bleaching,1982-1983,NA,n/a,2.9,1987,16.7,2002,NA,15,0.92,0.92,NA,24,NA,NA,NA,NA,NA
+17,"Guzman & Cortes, 2007",10,"Presidio, Cocos Island, Costa Rica",E. Pacific,5.55,-87.066,fringing,mixed,NA,9,24,Bleaching,1982-1983,NA,n/a,3.47,1987,25.7,2002,NA,15,1.482,1.48,NA,24,NA,NA,NA,NA,NA
+18,Stobart et al. 2005; Buckley et al 2008,11,"Aldabra, Seychelles (10m site)",Indian Ocean,-9.42,46.42,atoll,slope,NA,10,10,Bleaching,1998,NA,n/a,11.3,1999,14.9,2005,NA,6,0.6,0.6,NA,301,NA,NA,NA,NA,NA
+19,Stobart et al. 2005; Buckley et al 2008,11,"Aldabra, Seychelles (20m site)",Indian Ocean,-9.42,46.42,atoll,slope,NA,20,20,Bleaching,1998,NA,n/a,20.3,1999,21.1,2001,NA,2,0.4,0.4,NA,301,NA,NA,NA,NA,NA
+20,Buckley et al 2008; Stobart et al 2002,12,"Assomption, Seychelles (10m site)",Indian Ocean,-9.7,46.5,fringing,slope,NA,10,10,Bleaching,1998,NA,n/a,12.2,2002,23.3,2006,NA,4,2.775,2.78,NA,301,NA,NA,NA,NA,NA
+21,Buckley et al 2008; Stobart et al 2002,12,"Assomption, Seychelles (20m site)",Indian Ocean,-9.7,46.5,fringing,slope,NA,20,20,Bleaching,1998,NA,n/a,31,2002,35.8,2006,NA,4,1.2,1.2,NA,301,NA,NA,NA,NA,NA
+22,Buckley et al 2008; Stobart et al 2002,12,"Astove, Seychelles (10m site)",Indian Ocean,-10.08,47.75,fringing,slope,NA,10,10,Bleaching,1998,NA,n/a,32.4,2002,35.9,2005,NA,3,1.166666667,1.17,NA,299,NA,NA,NA,NA,NA
+23,Buckley et al 2008; Stobart et al 2002,12,"Astove, Seychelles (20m site)",Indian Ocean,-10.08,47.75,fringing,slope,NA,20,20,Bleaching,1998,NA,n/a,17.4,2002,22.4,2005,NA,3,1.666666667,1.67,NA,299,NA,NA,NA,NA,NA
+24,Buckley et al 2008; Stobart et al 2002,12,"St. Pierre, Seychelles (10m site)",Indian Ocean,-9.14,50.7,fringing,slope,NA,10,10,Bleaching,1998,NA,n/a,15,2002,33,2004,NA,2,9,9,NA,293,NA,NA,NA,NA,NA
+25,Buckley et al 2008; Stobart et al 2002,12,"St. Pierre, Seychelles (20m site)",Indian Ocean,-9.14,50.7,fringing,slope,NA,20,20,Bleaching,1998,NA,n/a,25.2,2002,36.9,2005,NA,3,3.9,3.9,NA,293,NA,NA,NA,NA,NA
+26,Connell et al. 1997,13,"Heron Island, GBR exposed pools",W. Pacific,-23.442,151.914,barrier,slope,NA,1,1,Storm,1967,57.6,1966,0.1,1967,83.03,1986,1,19,4.364736842,4.36,-57.5,357,57921,3030,8,4,NA
+27,Connell et al. 1997,13,"Heron Island, GBR exposed crest 1962-1971",W. Pacific,-23.442,151.914,barrier,crest,NA,0.5,0.5,Storm,1967,75.4,1966,50.37,1967,70.4,1971,1,4,5.0075,5.01,-25.03,357,57921,3030,8,4,NA
+28,Connell et al. 1997,13,"Heron Island, GBR exposed crest 1971-1992",W. Pacific,-23.442,151.914,barrier,crest,NA,0.5,0.5,Storm,1972,70.4,1971,0.07,1972,20.2,1992,1,20,1.0065,1.01,-70.33,357,57921,3030,8,4,NA
+29,Colgan 1987,14,"Tanguisson Reef, Guam, Reef Front",W. Pacific,13.44,144.79,fringing,slope,NA,1,6,COTS,1968-1969,NA,n/a,20.9,1970,43.7,1981,NA,11,2.072727273,2.07,NA,264,31529,27763,27763,27737,9749
+30,Colgan 1987,14,"Tanguisson Reef, Guam, Submarine Terrace",W. Pacific,13.44,144.79,fringing,slope,NA,6,16,COTS,1968-1969,NA,n/a,0.9,1970,65.9,1981,NA,11,5.909090909,5.91,NA,264,31529,27763,27763,27737,9749
+31,Colgan 1987,14,"Tanguisson Reef, Guam, Seaward Slope",W. Pacific,13.44,144.79,fringing,slope,NA,16,33,COTS,1968-1969,NA,n/a,0.5,1970,36.2,1981,NA,11,3.245454545,3.25,NA,264,31529,27763,27763,27737,9749
+32,Sheppard et al 2008,15,"Northern Atolls, Chagos (5m)",Indian Ocean,-5.2,72.3,atoll,slope,NA,5,5,Bleaching,1998,65.4,1978,12.97,2001,34.92,2006,23,5,4.39,4.39,-2.279565217,335,NA,NA,NA,NA,NA
+33,Sheppard et al 2008,15,"Northern Atolls, Chagos (10m)",Indian Ocean,-5.2,72.3,atoll,slope,NA,8,10,Bleaching,1998,65.4,1978,10.16,2001,30,2006,23,5,3.968,3.97,-2.40173913,335,NA,NA,NA,NA,NA
+34,Sheppard et al 2008,15,"Northern Atolls, Chagos (20m)",Indian Ocean,-5.2,72.3,atoll,slope,NA,20,20,Bleaching,1998,65.4,1978,17.78,2001,26.67,2006,23,5,1.778,1.78,-2.070434783,335,NA,NA,NA,NA,NA
+35,Sheppard et al 2008,15,"Northern Atolls, Chagos (25m)",Indian Ocean,-5.2,72.3,atoll,slope,NA,25,25,Bleaching,1998,80,1978,24.13,2001,28.57,2006,23,5,0.888,0.89,-2.429130435,335,NA,NA,NA,NA,NA
+36,Arthur et al 2006,16,"Agatti, Lakshadweep, (Site West ?)",Indian Ocean,10.8,72.17,atoll,slope,NA,5,12,Bleaching,1998,NA,n/a,13.68,2000,35.09,2003,NA,3,7.136666667,7.14,NA,97,NA,NA,NA,NA,NA
+37,Arthur et al 2006,16,"Agatti, Lakshadweep, (Site East ?)",Indian Ocean,10.8,72.17,atoll,slope,NA,5,12,Bleaching,1998,NA,n/a,5.12,2000,11.74,2001,NA,1,6.62,6.62,NA,97,NA,NA,NA,NA,NA
+38,Arthur et al 2006,16,"Kadmat, Lakshadweep, (Site West ?)",Indian Ocean,11.2,72.76,atoll,slope,NA,5,12,Bleaching,1998,NA,n/a,4.73,2000,20.3,2003,NA,3,5.19,5.19,NA,97,NA,NA,NA,NA,NA
+39,Arthur et al 2006,16,"Kadmat, Lakshadweep, (Site East?)",Indian Ocean,11.2,72.76,atoll,slope,NA,5,12,Bleaching,1998,NA,n/a,4.34,2000,7.84,2003,NA,3,1.166666667,1.17,NA,97,NA,NA,NA,NA,NA
+40,Hagan & Spencer 2008,17,"Alphonse Atoll, Seychelles",Indian Ocean,-7.018,52.741,atoll,slope,NA,3.5,18,Bleaching,1998,NA,n/a,10.3,1999,22.6,2003,NA,4,3.075,3.08,NA,302,NA,NA,NA,NA,NA
+41,Edmunds 2002,18,"St. John, US Virgin Islands Yawzi Point",Caribbean,18.32,-64.726,fringing,slope,NA,9,9,Storm,1989,45.45,1989,32.52,1989,35.87,1994,0,5,0.67,0.67,#DIV/0!,55,34737,25568,11312,8820,2354
+42,Naim et al 2000,19,"St. Leu, Reunion Island (both sites)",Indian Ocean,-21.165,55.285,fringing,flat,NA,0.5,2,Storm,1989,NA,n/a,7.2,1993,36,2000,NA,7,4.114285714,4.11,NA,299,83667,83667,78105,30319,6238
+43,Pratchett et al 2008,20,"Trunk Reef, GBR",W. Pacific,-18.347,146.829,barrier,crest,NA,2,3,Bleaching,2001-2002,33.36,2000,3.2,2005,6.5,2008,5,3,1.1,1.1,-6.032,417,80379,17639,750,NA,NA
+44,"Robbart et al, 2004",21,"Belize, Wee Wee",Caribbean,16.7,-88.13,barrier,mixed,NA,1,15,Bleaching,1998,NA,n/a,13.87,1999,27.05,2001,NA,2,6.59,6.59,NA,58,153918,74522,31883,2598,NA
+45,"Robbart et al, 2004",21,"Belize, Peter Douglas",Caribbean,16.7,-88.16,barrier,mixed,NA,1,15,Bleaching,1998,NA,n/a,20.81,1999,24.68,2002,NA,3,1.29,1.29,NA,58,161134,79181,34880,4540,NA
+46,"Robbart et al, 2004",21,"Belize, Tunicate",Caribbean,16.7,-88.1,barrier,mixed,NA,1,15,Bleaching,1998,NA,n/a,7.86,1999,15.24,2001,NA,2,3.69,3.69,NA,58,146664,69739,28720,1050,NA
+47,"Guillermo et al, 2009",22,"Middle Island, GBR",W. Pacific,-23.169,150.918,barrier,slope,NA,4,7,Bleaching,Jan/Feb 2006,78.91,6-Feb,17.97,6-Aug,NA,,181,NA,#DIV/0!,NA,-0.336685083,390,217977,132713,56702,7961,234
+48,"Guillermo et al, 2009",22,"Halfway Island, GBR",W. Pacific,-23.19,150.97,barrier,slope,NA,4,7,Bleaching,Jan/Feb 2006,88.24,6-Feb,30.2,6-Aug,NA,,181,NA,#DIV/0!,NA,-0.320662983,390,212740,125861,46845,3582,230
+49,"Guillermo et al, 2009",22,"Barren Island, GBR",W. Pacific,-23.159,151.075,barrier,slope,NA,4,7,Bleaching,Jan/Feb 2006,78.43,6-Feb,31.77,6-Aug,NA,,181,NA,#DIV/0!,NA,-0.257790055,390,191626,105422,24802,278,4
+50,"Guillermo et al, 2009",22,"Nth Keppel Island, GBR",W. Pacific,-23.16,150.96,barrier,slope,NA,4,7,Bleaching,Jan/Feb 2006,46.67,6-Feb,6.27,6-Aug,NA,,181,NA,#DIV/0!,NA,-0.22320442,390,209903,124438,46408,4565,230
+51,Dollar 1982,23,"Boulder Zone, Hawaii Island",E. Pacific,19.5,-156,,boulder,NA,1,3,Storm,Jan-74,30.7,1973,27.47,(14 days later) 1974,NA,,NA,NA,#DIV/0!,0,NA,59,167654,108989,54739,17706,1839
+52,Dollar 1982,23,"Slope Zone, Hawaii Island",E. Pacific,19.5,-156,,slope,NA,5,25,Storm,Jan-74,75.6,1973,67.14,(14 days later) 1974,NA,,NA,NA,#DIV/0!,0,NA,59,167654,108989,54739,17706,1839
+53,Dollar 1982,23,"Rubble Zone, Hawaii Island",E Pacific,19.5,-156,,rubble,NA,25,40,Storm,Jan-74,3,1973,4.6,(14 days later) 1974,NA,,NA,NA,#DIV/0!,NA,NA,59,167654,108989,54739,17706,1839
+54,Guillemot et al 2010,24,"Barrier reefs far from pass, New Caledonia",W. Pacific,-20,163,barrier,inner slope,NA,1,5,Storm,3-Mar,10.1,2002,5.2,4-Nov,NA,,36290,NA,#DIV/0!,NA,-0.000135023,384,1729,443,NA,NA,NA
+55,Guillemot et al 2010,24,"barrier reefs near pass, New Caledonia",W. Pacific,-20,163,barrier,inner slope,NA,1,5,Storm,3-Mar,16.1,2002,8.31,4-Nov,NA,,36290,NA,#DIV/0!,NA,-0.00021466,384,1729,443,NA,NA,NA
+56,Guillemot et al 2010,24,"Patch reefs, New Caledonia",W. Pacific,-20,163,patch,,NA,1,5,Storm,3-Mar,18,2002,9.5,4-Nov,NA,,36290,NA,#DIV/0!,NA,-0.000234224,384,1729,443,NA,NA,NA
+57,Pratchett 2010,25,"Lizard Island, GBR",W. Pacific,-14.6,145.5,,,NA,3,7,COTS,1995-1999,32.2,1996,22.2,N/A,NA,N/A,NA,NA,#DIV/0!,NA,NA,420,35824,17500,2640,40,40
+58,Pratchett et al 2009 ,26,"Bootless Bay, Papau New Guinea ",Indian Ocean,-9.51,147.29,fringing,mixed,NA,1.5,12,COTS,2005,42.4,2005,19.14,2006,NA,,1,NA,#DIV/0!,NA,-23.26,404,249710,160396,85379,34387,6410
+59,Spalding et al 2002 ,27,"West Alphonse, Seychelles Islands",Indian Ocean,-4,55,atoll,flat,NA,15,15,Bleaching,1998,51,1998,7,1999,NA,,1,NA,#DIV/0!,NA,-44,303,NA,NA,NA,NA,NA
+60,Spalding et al 2002 ,27,"North St. Pierre, Seychelles Islands",Indian Ocean,-4,55,shelf,sloping,NA,15,15,Bleaching,1998,64,1998,3,1999,NA,,1,NA,#DIV/0!,NA,-61,303,NA,NA,NA,NA,NA
+61,Spalding et al 2002 ,27,"South St. Pierre, Seychelles Islands ",Indian Ocean,-4,55,shelf,sloping,NA,15,15,Bleaching,1998,29,1998,10,1999,NA,,1,NA,#DIV/0!,NA,-19,303,NA,NA,NA,NA,NA
+62,Spalding et al 2002 ,27,"Cousine Island, Seychelles Islands",Caribbean,-4,55,fringing,fringing,NA,8,10,Bleaching,1998,56,1997,0,1999,NA,,2,NA,#DIV/0!,NA,-28,303,NA,NA,NA,NA,NA
+63,Crabbe 2009,28,"Discovery Bay, Jamaica",W. Pacific,18.69,-77.45,barrier,,NA,5,8.5,Bleaching,2006,46,2005,13,2006,31,2008,1,2,9,9,-33,60,328304,177314,56787,1294,NA
+64,Done 1985,29,"John Brewer, GBR (1974-1983)",W. Pacific,-18.633,147.045,barrier,mixed,NA,3,12,COTS,1969,NA,,6,1974,56.6,1983,1974,9,5.622222222,5.62,0.003039514,412,95873,8327,580,NA,NA
+65,Done 1985,29,"John Brewer, GBR (1983-1984)",W. Pacific,-18.633,147.045,barrier,mixed,NA,3,12,COTS,1983,56.6,1983,3.33,1984,NA,,1,NA,#DIV/0!,NA,-53.27,412,95873,8327,580,NA,NA
+66,Done et al 1988,30,"John Brewer reef, GBR",Indian Ocean,-18.633,147.045,barrier,mixed,NA,3,12,COTS,"1969, 1983",NA,1979,2,1983,9.9,1988,4,5,1.58,1.58,0.5,412,95873,8327,580,NA,NA
+67,Muhando & Lanshammar 2008,31,"Chumbe, Zanzibar, Tanzania, all hard corals",Indian Ocean,-6.279,39.177,barrier,,NA,NA,NA,COTS,2002-2008,47.9,1994,23.2,1998,64.7,2008,4,10,4.15,4.15,-6.175,278,319833,183849,72348,12391,956
+68,Muhando & Lanshammar 2008,31,"Bawe, Zanzibar, Tanzania, all hard corals",Indian Ocean,-6.166,39.202,barrier,,NA,NA,NA,COTS,2002-2008,57.5,1992,43.2,2008,NA,,16,NA,#DIV/0!,NA,-0.89375,279,300285,151136,53711,20924,5463
+69,Muhando & Lanshammar 2008,31,"Changuu, Zanzibar, Tanzania, all hard corals",Indian Ocean,-6.119,39.167,barrier,,NA,3,10,COTS,"1996/97, 2002-2008",69.7,1992,50.7,1997,48,2008,5,11,-0.245454545,0,-3.8,279,310761,152049,55147,19318,3077
+70,Edwards et al. 2001,32,Maldives,Caribbean,3.2,73.2,altoll,mixed,NA,15,18,Bleaching,1998,42,1997,2,1998,NA,,1,NA,#DIV/0!,NA,-40,245,NA,NA,NA,NA,NA
+71,Ostrander et al. 2000,33,"San Salvador Island, Bahamas",W. Pacific,24.033,-74.516,,,NA,2,2,Bleaching,1994,13.6,1994,5.2,1997,NA,N/A,3,NA,#DIV/0!,NA,-2.8,53,14715,6226,4644,3842,3420
+72,Loya et al. 2001,34,"Sesko Island; Okinawa, Japan ",Indian Ocean,26.633,127.867,barrier ,flat,NA,1,30,Bleaching,1998,36.4,1997,9.9,1999,NA,,2,NA,#DIV/0!,NA,-13.25,363,64442,64176,53449,23837,4124
+73,McClanahan et al. 2000,35,"Felidhu, Mulaku, and South Malé; Maldives ",Caribbean,3.5,73.5,altoll,slope,NA,13.7,15,Bleaching,1998,27.5,1992,8.3,1999,NA,,7,NA,#DIV/0!,NA,-2.742857143,245,NA,NA,NA,NA,NA
+74,Rodgers and Miller 2006,36,"St. John, US Virgin Islands, Lameshur Reef",Caribbean,18.34,-64.73,fringing,flat,NA,13.7,15,Storm,Sep-89,23.2,Jan-89,12.7,Nov-89,12,Dec-90,304,1.25,-0.56,0,-0.034539474,55,34959,25495,11312,9191,2603
+75,Rodgers and Miller 2006,36,"St. John, US Virgin Islands, Lameshur Reef",Caribbean,18.34,-64.73,fringing,flat,NA,3,5,Storm,Sep-95,NA,,10.3,Oct-95,10.7,Nov-96,34973,1.25,0.32,0.32,0.000294513,55,34959,25495,11312,9191,2603
+76,Rodgers et al. 1982,37,"St. Croix, US Virgin Islands, Robin Bay",Caribbean,17.73,-64.73,shelf,crest,NA,4,4,Storm,August and September 1979,27,May-78,20,Nov-79,NA,,549,NA,#DIV/0!,NA,-0.012750455,55,28331,16848,11065,11065,6713
+77,Woodley et al. 1981,38,"Jamaica, West Fore Reef, reef lobe",W. Pacific,18.4,-78.4,,,NA,NA,NA,Storm,29439,51,1977,12,two weeks after 6th = 8/20/1980,NA,,NA,NA,#DIV/0!,NA,NA,60,144774,89580,45035,14569,484
+78,Booth et al 2002,39,"One Tree Island Lagoon, GBR (Entrance)",W. Pacific,-23.5,152.1,barrier,fore,NA,NA,NA,Bleaching,Feb/March 1998,34.157,1995,28.427,1999,NA,,4,NA,#DIV/0!,NA,-1.4325,357,35953,1042,8,NA,NA
+79,Booth et al 2002,39,"One Tree Island Lagoon, GBR (Big Bommies)",W. Pacific,-23.5,152.1,barrier,inner slope,NA,NA,NA,Bleaching,Feb/March 1998,29.551,1995,8.539,1999,NA,,4,NA,#DIV/0!,NA,-5.253,357,35953,1042,8,NA,NA
+80,Booth et al 2002,39,"One Tree Island Lagoon, GBR (Maze)",W. Pacific,-23.5,152.1,barrier,inner slope,NA,NA,NA,Bleaching,Feb/March 1998,35.618,1995,19.775,1999,NA,,4,NA,#DIV/0!,NA,-3.96075,357,35953,1042,8,NA,NA
+81,Booth et al 2002,39,"One Tree Island Lagoon, GBR (Centre Bommie)",W. Pacific,-23.5,152.1,barrier,inner slope,NA,NA,NA,Bleaching,Feb/March 1998,30.449,1995,6.742,1999,NA,,4,NA,#DIV/0!,NA,-5.92675,357,35953,1042,8,NA,NA
+82,Booth et al 2002,39,"One Tree Island Lagoon, GBR (No Bommies)",W. Pacific,-23.5,152.1,barrier,inner slope,NA,4,9,Bleaching,Feb/March 1998,10.899,1995,1.124,1999,NA,,4,NA,#DIV/0!,NA,-2.44375,357,35953,1042,8,NA,NA
+83,Done et al. 2007,40,"Pandora, GBR",W. Pacific,-18.812,146.434,patch,back reef,NA,NA,NA,Bleaching,1998,53.33,1998,45.56,1990,49.7,2005,-8,7,0.591428571,0.59,0.97125,412,182507,120610,54582,8452,NA
